@@ -1,6 +1,6 @@
 # Fix it
 
-Block CZ/SK hateful/far-right/conspiracy content, you are free to contribute to this list. The list is somewhat opinionated and may not always align perfectly with your views, so feel free to adjust to your needs.
+Block EN/CZ/SK hateful/far-right/conspiracy content, you are free to contribute to this list. The list is somewhat opinionated and may not always align perfectly with your views, so feel free to adjust to your needs.
 
 ![](fix-it.gif)
 
